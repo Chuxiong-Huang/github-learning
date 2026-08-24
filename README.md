@@ -7,3 +7,7 @@ I am learning:
 - Git
 - GitHub
 - GitHub collaboration
+
+## Git Practice
+
+Today I learned how to clone a GitHub repository to my local computer. 
