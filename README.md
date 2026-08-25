@@ -16,4 +16,4 @@ Today I learned how to clone a GitHub repository to my local computer.
 
 This content was added on the feature-practice branch. 
 
-Git practice is easy to learn. 
+Git practice is useful and easy to learn. 
